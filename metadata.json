@@ -1,0 +1,6 @@
+{
+  "name": "ARDUINO TUG WAR – DUEL OTAK",
+  "description": "Game edukasi tarik tambang digital untuk pembelajaran Informatika kelas 12 MAN 1 OKU TIMUR materi praktik Arduino Uno, LED, breadboard, lampu lalu lintas, lampu ambulans, dan Arduino IDE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
